@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "a5de",
+      "firstName": "Jack",
+      "lastName": "Brat",
+      "email": "JackBrat@gmail.com",
+      "dob": "1921-02-09T19:22:49.000Z",
+      "gender": "",
+      "education": "Advanced",
+      "company": "IBM",
+      "experience": 12,
+      "package": 15
+    },
+    {
+      "id": "e924",
+      "firstName": "Shermamat",
+      "lastName": "Toshmatov",
+      "email": "Toshmatov@gmail.com",
+      "dob": "2000-12-11T19:00:00.000Z",
+      "gender": "male",
+      "education": "Upper-Intermediate",
+      "company": "Epam",
+      "experience": 5,
+      "package": 12
+    },
+    {
+      "id": "dea5",
+      "firstName": "Elburs",
+      "lastName": "BursLi",
+      "email": "Nimadir@gmail.com",
+      "dob": "1990-12-31T18:00:00.000Z",
+      "gender": "male",
+      "education": "Advanced",
+      "company": "Xitoy",
+      "experience": 1,
+      "package": 1
+    }
+  ]
+}
